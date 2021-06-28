@@ -14,13 +14,15 @@ https://shop-project-1.netlify.app/
 <br />
 2:redux
 <br />
-3:formik for forms
+3:type-script
 <br />
-4:yup for validation in client side
+4:formik for forms
 <br />
-5:material-ui for Design
+5:yup for validation in client side
 <br />
-6:react-dropzone
+6:material-ui for Design
+<br />
+7:react-dropzone
 <br />
 
 #### server side:
